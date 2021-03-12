@@ -6,3 +6,7 @@
     margin-bottom: 10px;
 }
 
+button {
+    background-color:red;
+    padding:10px;
+}
